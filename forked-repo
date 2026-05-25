@@ -1,4 +1,4 @@
-curl -H "Authorization: token MY_GITHUB_TOKEN" https://api.github.com/repos/haianh06/mcino-Introduction-to-Git-and-GitHub | grep -A 5 "parent"
+curl -H "Authorization: token MY_GITHUB_TOKEN" https://api.github.com/repos/haianh06/github-final-project | grep -A 5 "parent"
   "parent": {
     "id": 1050225087,
     "node_id": "R_kgDOPpkpvw",
